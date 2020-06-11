@@ -1,5 +1,5 @@
 +++
-authors = ["YZ"]
+authors = []
 date = 2020-06-10T16:00:00Z
 excerpt = "This is about why I started this blog"
 hero = ""
