@@ -10,11 +10,11 @@ social:
   linkedin: "#"
   dribbble: "#"
   youtube: "#"
-[menu]
+menu:
       [[menu.main]]
-          identifier = "about"
-          Name = "About"
-          url = "/about/"
-          weight = 0
+          identifier: "about"
+          Name: "About"
+          url: "/about/"
+          weight: 0
 taxonomies:
   author: authors
