@@ -1,6 +1,7 @@
 +++
 authors = []
 date = 2020-06-10T16:00:00Z
+draft = true
 excerpt = "This is about why I started this blog"
 hero = ""
 title = "Why I started this blog"
