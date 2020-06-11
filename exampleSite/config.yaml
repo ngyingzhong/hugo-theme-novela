@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://ngyingzhong.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Ng Ying Zhong"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
@@ -10,5 +10,11 @@ social:
   linkedin: "#"
   dribbble: "#"
   youtube: "#"
+[menu]
+      [[menu.main]]
+          identifier = "about"
+          Name = "About"
+          url = "/about/"
+          weight = 0
 taxonomies:
   author: authors
