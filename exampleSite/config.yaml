@@ -10,10 +10,6 @@ social:
   linkedin: "#"
   dribbble: "#"
   youtube: "#"
-menu:
-          identifier: "about"
-          Name: "About"
-          url: "/about/"
-          weight: 0
+
 taxonomies:
   author: authors
